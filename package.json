@@ -1,0 +1,17 @@
+{
+  "name": "global2umd",
+  "version": "0.0.1",
+  "description": "Convert Global to UMD",
+  "main": "global2umd.js",
+  "directories": {
+    "test": "tests"
+  },
+  "bin": {
+    "global2umd": "./global2umd.js"
+  },
+  "keywords": [
+    "umd"
+  ],
+  "author": "YanagiEiichi <admin@web-tinker.com>",
+  "license": "MIT"
+}
